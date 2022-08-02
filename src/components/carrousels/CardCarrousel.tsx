@@ -21,6 +21,9 @@ export function CardSlider({ cards }: CardSliderProps) {
     navigation: cards.length >= 3 && true,
     draggable: cards.length >= 3 && true,
     loop: cards.length >= 3 && true,
+    pagination: cards.length >= 3 && {
+      clickable: true,
+    },
   };
 
   return (

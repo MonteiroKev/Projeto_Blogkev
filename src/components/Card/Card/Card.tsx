@@ -17,7 +17,7 @@ export function Card({ card }: CardProps) {
       bg="gray.900"
       color="white"
     >
-      {image && (
+      {image?.url && (
         <Image
           src={image.url}
           alt={image.alt}
