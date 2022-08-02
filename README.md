@@ -1,2 +1,2 @@
 # Projeto_Blogkev
-Projeto desenvolvido usando ReactJS, ChakraUI, Prismic cms, Typescript 
+Projeto em desenvolvimento usando ReactJS, ChakraUI, Prismic cms, Typescript 
